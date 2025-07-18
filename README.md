@@ -1,1 +1,1 @@
-# Telecom-Customer-Churn-Analysys
+# Telecom-Customer-Churn-Analysis
